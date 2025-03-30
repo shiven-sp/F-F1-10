@@ -1,0 +1,85 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Biodata</title>
+</head>
+
+<body>
+    <h1>Shiven Patel</h1>
+
+    <div>
+        <!-- Profile Image -->
+        <img src="https://th.bing.com/th/id/OIP.Syv-EXdQjkrRt09l2QK4_QAAAA?w=158&h=184&c=7&r=0&o=5&pid=1.7" alt="Shiven Patel" width="150" height="150" style="border-radius: 50%; border: 2px solid #000;">
+    </div>
+
+    <div>
+        <h3>Summary</h3>
+        <p>I am a first-year engineering student.</p>
+    </div>
+
+    <div>
+        <h3>Personal Info</h3>
+        <p>Full Name: Shiven Patel</p>
+        <p>Age: 19 Years</p>
+        <p>Date of Birth: 05-01-2006</p>
+        <p>Nationality: Indian</p>
+    </div>
+
+    <div>
+        <h3>Contact Details</h3>
+        <p>Address: Akurdi, Pune</p>
+        <p>Phone Number: 1234567890</p>
+        <p>Email Address: shivenpatel@gmail.com</p>
+    </div>
+
+    <div>
+        <h2>Education</h2>
+        <table border="1" cellpadding="5" cellspacing="0" style="width: 25%; margin-top: 10px;">
+            <tr>
+                <th>Education</th>
+                <th>College</th>
+                <th>%</th>
+            </tr>
+            <tr>
+                <td>10th</td>
+                <td>Indian Model School</td>
+                <td>95</td>
+            </tr>
+            <tr>
+                <td>12th</td>
+                <td>Indian Model School</td>
+                <td>70</td>
+            </tr>
+            <tr>
+                <td>F.E</td>
+                <td>PCU</td>
+                <td>7 CGPA</td>
+            </tr>
+        </table>
+    </div>
+
+    <div>
+        <h3>Technologies</h3>
+        <h4>Languages</h4>
+        <ol type="I">
+            <li>C</li>
+            <li>C++</li>
+            <li>Python</li>
+        </ol>
+
+        <h4>Skills</h4>
+        <ul type="circle">
+            <li>Web Development</li>
+            <li>Java</li>
+            <li>Data Analytics</li>
+        </ul>
+    </div>
+
+    <p style="text-align: right; font-weight: bold; color: red;">→</p>
+</body>
+
+</html>

@@ -1,0 +1,43 @@
+<!DOCTYPE html><!DOCTYPE html>
+<html>
+
+<head>
+    <title>PG</title>
+    <style>
+        div.items {
+            display: grid;
+            grid-template-columns: 5;
+            padding: 5px;
+            margin: 0 auto;
+            justify-items: center;
+            gap: 5px;
+            /* Adds space between images */
+        }
+
+        /* Ensures all elements inside div.items have the same box-sizing */
+        div.items * {
+            border-style: box;
+            border-radius: 20px;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Photo Gallery</h1>
+    <div class="store">
+        <div class="items">
+            <img src="https://th.bing.com/th?id=OIP.bGpWH7zGhQQoL3C3Z-ftWwHaLG&w=204&h=306&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2" width="300">
+            <img src="https://th.bing.com/th?id=OIP.DJjmYF3Xj6mAZJAF5yQe7QHaE8&w=306&h=204&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2" width="300">
+            <img src="https://th.bing.com/th?id=OIP.6ATTBRIMXM8KtwKoDrZDCQHaGF&w=275&h=226&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2" width="300">
+            <img src="https://th.bing.com/th?id=OIP.lhYAGmE_meNeT7yE4Q3aZwHaE7&w=306&h=203&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2" width="300">
+            <img src="https://th.bing.com/th?id=OIP.rntIv6Bsq8G5z1cU6wWHeQHaD4&w=345&h=181&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2" width="300">
+            <img src="https://th.bing.com/th?id=OIP.hbIlzvCMEg53MzQC0XK0VwHaFP&w=297&h=210&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2" width="300">
+            <img src="https://th.bing.com/th/id/OIP.bGpWH7zGhQQoL3C3Z-ftWwHaLG?w=200&h=180&c=7&r=0&o=5&pid=1.7" width="300">
+            <img src="
+https://th.bing.com/th?id=OIP.DJjmYF3Xj6mAZJAF5yQe7QHaE8&w=306&h=204&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2" width="300">
+            
+        </div>
+    </div>
+</body>
+
+</html
